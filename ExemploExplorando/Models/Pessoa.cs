@@ -55,4 +55,7 @@ namespace ExemploExplorando.Models
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
+
+
+    
 }
